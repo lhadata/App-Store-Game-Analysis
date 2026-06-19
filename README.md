@@ -35,3 +35,7 @@ Dựa trên các insight từ dữ liệu, để tối ưu hóa lợi nhuận v�
 ---
 ### 📚 Data Dictionary
 ![Data Dictionary](./dashboards/3_dictionary.png)
+
+### 📂 File gốc Power BI & Báo cáo
+* 👉 Tải xuống và trải nghiệm Dashboard tương tác (File .pbix): [mobile_game.pbix](./dashboards/mobile_game.pbix)
+* 📄 Xem nhanh báo cáo toàn cảnh định dạng PDF: [mobile_game.pdf](./dashboards/mobile_game.pdf)
